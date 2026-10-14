@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GroupTrip")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f99860aebe80b696e6ae99f49d1c041980651d0c")]
 [assembly: System.Reflection.AssemblyProductAttribute("GroupTrip")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GroupTrip")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

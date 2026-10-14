@@ -12,3 +12,4 @@ C:\Users\Kadep\CSCI1250\lab04-group-trip\GroupTrip\obj\Debug\net10.0\refint\Grou
 C:\Users\Kadep\CSCI1250\lab04-group-trip\GroupTrip\obj\Debug\net10.0\GroupTrip.pdb
 C:\Users\Kadep\CSCI1250\lab04-group-trip\GroupTrip\obj\Debug\net10.0\GroupTrip.genruntimeconfig.cache
 C:\Users\Kadep\CSCI1250\lab04-group-trip\GroupTrip\obj\Debug\net10.0\ref\GroupTrip.dll
+C:\Users\Kadep\CSCI1250\lab04-group-trip\GroupTrip\obj\Debug\net10.0\GroupTrip.sourcelink.json
