@@ -1,0 +1,14 @@
+C:\Users\Kadep\CSCI1250\lab04-group-trip\GroupTrip\obj\Debug\net10.0\GroupTrip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kadep\CSCI1250\lab04-group-trip\GroupTrip\obj\Debug\net10.0\GroupTrip.AssemblyInfoInputs.cache
+C:\Users\Kadep\CSCI1250\lab04-group-trip\GroupTrip\obj\Debug\net10.0\GroupTrip.AssemblyInfo.cs
+C:\Users\Kadep\CSCI1250\lab04-group-trip\GroupTrip\obj\Debug\net10.0\GroupTrip.csproj.CoreCompileInputs.cache
+C:\Users\Kadep\CSCI1250\lab04-group-trip\GroupTrip\bin\Debug\net10.0\GroupTrip.exe
+C:\Users\Kadep\CSCI1250\lab04-group-trip\GroupTrip\bin\Debug\net10.0\GroupTrip.deps.json
+C:\Users\Kadep\CSCI1250\lab04-group-trip\GroupTrip\bin\Debug\net10.0\GroupTrip.runtimeconfig.json
+C:\Users\Kadep\CSCI1250\lab04-group-trip\GroupTrip\bin\Debug\net10.0\GroupTrip.dll
+C:\Users\Kadep\CSCI1250\lab04-group-trip\GroupTrip\bin\Debug\net10.0\GroupTrip.pdb
+C:\Users\Kadep\CSCI1250\lab04-group-trip\GroupTrip\obj\Debug\net10.0\GroupTrip.dll
+C:\Users\Kadep\CSCI1250\lab04-group-trip\GroupTrip\obj\Debug\net10.0\refint\GroupTrip.dll
+C:\Users\Kadep\CSCI1250\lab04-group-trip\GroupTrip\obj\Debug\net10.0\GroupTrip.pdb
+C:\Users\Kadep\CSCI1250\lab04-group-trip\GroupTrip\obj\Debug\net10.0\GroupTrip.genruntimeconfig.cache
+C:\Users\Kadep\CSCI1250\lab04-group-trip\GroupTrip\obj\Debug\net10.0\ref\GroupTrip.dll
