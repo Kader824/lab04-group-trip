@@ -62,7 +62,24 @@ double totalhours = 0;
 double totalTakeHomePay = 0;
 double longest = 0;
 
+for (int i = 0; i < names.Length; i++)
+{
+    double takeHomePay = TakeHomePay(hoursWorked[i], hourlyRates[i], taxRate);
+    double takeHomePerHour = takeHomePay / hoursWorked[i];
+    double hoursNeeded = HoursToCover(costPerPerson, takeHomePerHour);
 
+    Console.WriteLine(names[i] + ": takes home " + takeHomePay.ToString("C") + " for " + hoursWorked[i].ToString("F0") + " hours, " + takeHomePerHour.ToString("C") + " per hour, must work " + hoursNeeded.ToString("F2") + " hours");
+
+    totalhours = totalhours + hoursWorked[i];
+    totalTakeHomePay = totalTakeHomePay + takeHomePay;
+    longest = Math.Max(longest, hoursNeeded);
+}
+
+Console.WriteLine();
+
+Console.WriteLine("Total hours worked: " + totalhours.ToString("F0"));
+Console.WriteLine("Total take home pay: " + totalTakeHomePay.ToString("C"));
+Console.WriteLine("Longest anyone must work: " + longest.ToString("F2"));
 
 // Returns the total fuel cost for the trip.
 static double FuelCost(double miles, double milesPerGallon, double pricePerGallon)
